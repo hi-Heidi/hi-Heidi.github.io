@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/hi-Heidi/hi-Heidi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "little cute 기획자 지망생의 코딩 실험실" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "기획자 지망생의 코딩 실험실🧪" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "하이디(Heidi)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**신문물 체험하기**<br>기획자를 꿈꿉니다.<br>데이터를 다루고 코딩을 공부하고 있습니다."
+  bio              : "**신문물 체험하기!**<br>기획자를 꿈꿉니다.<br>데이터를 다루고 코딩을 공부하고 있습니다."
   location         : "Republic of Korea"
   email            :
   links:
