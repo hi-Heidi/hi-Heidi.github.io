@@ -1,8 +1,8 @@
 <div align="center">
 
-# coding Laboratory🧪
-이것저것 시도하는 코딩 실험실
-
+![header](https://capsule-render.vercel.app/api?type=transparent&text=coding%20Laboratory🧪%20&height=300&fontSize=70&fontColor=c78edd&fontAlignY=30&desc=이것저것%20시도하는%20코딩%20실험실&descAlignY=50&descAlign=47)
+  공사중🔨<br/>
+  
 </div>
 
 <br/>
